@@ -1,11 +1,11 @@
 using System;
 using System.Collections.Generic;
 using Manager.Domain.Validators;
-
+using Manager.Core.Exceptions;
 
 namespace Manager.Domain.Entities
 {
-    public class User : Base
+    public class User : Base 
     {  
         //properties
         public string Name { get; private set; }
@@ -54,7 +54,7 @@ namespace Manager.Domain.Entities
                 foreach(var error in validation.Errors)
                     _errors.Add(error.ErrorMessage);
                 
-                throw new Exception("Some fields are invalid, please correct them!" + _errors[0]);
+                throw new DomainException("Some fields are invalid, please correct them!",_errors);
             }
 
             return true;

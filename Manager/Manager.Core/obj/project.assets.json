@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\victor.loiola\\Documents\\victor\\cursos\\Manager\\Manager.Core\\Manager.Core.csproj",
+      "projectUniqueName": "C:\\Users\\victor.loiola\\Documents\\victor\\cursos\\managerApi\\Manager\\Manager.Core\\Manager.Core.csproj",
       "projectName": "Manager.Core",
-      "projectPath": "C:\\Users\\victor.loiola\\Documents\\victor\\cursos\\Manager\\Manager.Core\\Manager.Core.csproj",
+      "projectPath": "C:\\Users\\victor.loiola\\Documents\\victor\\cursos\\managerApi\\Manager\\Manager.Core\\Manager.Core.csproj",
       "packagesPath": "C:\\Users\\victor.loiola\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\victor.loiola\\Documents\\victor\\cursos\\Manager\\Manager.Core\\obj\\",
+      "outputPath": "C:\\Users\\victor.loiola\\Documents\\victor\\cursos\\managerApi\\Manager\\Manager.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\victor.loiola\\AppData\\Roaming\\NuGet\\NuGet.Config",

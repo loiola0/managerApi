@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/vKt8WLbqFRL4D1I7hkbGGJGuOY4bMLxwBtSQBjBnulYkbcxmpmSuSRhSG1+bbGj5KdWdVpo9ueOPWz0yuTk2Q==",
+  "dgSpecHash": "KRf9V4GWeCKc2K+8K58Ea9ie8xjR4/DdzllFtPiO3CDQcuM0cxMfXSISk15cueUGWnCxCMj71noHzOcRHi1Pjw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\victor.loiola\\Documents\\victor\\cursos\\Manager\\Manager.Core\\Manager.Core.csproj",
+  "projectFilePath": "C:\\Users\\victor.loiola\\Documents\\victor\\cursos\\managerApi\\Manager\\Manager.Core\\Manager.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -198,11 +198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\victor.loiola\\Documents\\victor\\cursos\\Manager\\Manager.API\\Manager.API.csproj",
+      "projectUniqueName": "C:\\Users\\victor.loiola\\Documents\\victor\\cursos\\managerApi\\Manager\\Manager.API\\Manager.API.csproj",
       "projectName": "Manager.API",
-      "projectPath": "C:\\Users\\victor.loiola\\Documents\\victor\\cursos\\Manager\\Manager.API\\Manager.API.csproj",
+      "projectPath": "C:\\Users\\victor.loiola\\Documents\\victor\\cursos\\managerApi\\Manager\\Manager.API\\Manager.API.csproj",
       "packagesPath": "C:\\Users\\victor.loiola\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\victor.loiola\\Documents\\victor\\cursos\\Manager\\Manager.API\\obj\\",
+      "outputPath": "C:\\Users\\victor.loiola\\Documents\\victor\\cursos\\managerApi\\Manager\\Manager.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\victor.loiola\\AppData\\Roaming\\NuGet\\NuGet.Config",
