@@ -61,7 +61,5 @@ namespace Manager.Domain.Entities
 
         }
 
-
-        
     }
 }

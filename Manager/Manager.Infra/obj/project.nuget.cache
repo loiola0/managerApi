@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tenUbQUgomUxWLQfJyJHgd+fNtiEGsQ6nOCq83oczLb03BBRISRgbqIjO6mQ6oK8dGsAarJLkuEw+9NITPoW3w==",
+  "dgSpecHash": "+U5DJftCDOBfttF6upmmNLIr101VE7pBkk1JdRjCj1NBhaAgM4l536fRdxmbpAEz7loHtGZ6pYrKxiZgTvLkAQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\victor.loiola\\Documents\\victor\\cursos\\managerApi\\Manager\\Manager.Infra\\Manager.Infra.csproj",
+  "projectFilePath": "C:\\Users\\victor.loiola\\Documents\\victor\\cursos\\managerAPI\\Manager\\Manager.Infra\\Manager.Infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\victor.loiola\\.nuget\\packages\\fluentvalidation\\10.3.0\\fluentvalidation.10.3.0.nupkg.sha512",
     "C:\\Users\\victor.loiola\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
